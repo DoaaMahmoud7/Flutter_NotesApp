@@ -1,5 +1,3 @@
-# NotesApp
-
 # 📝 Notes App
 
 A clean and user-friendly note-taking application built with Flutter. Perfect for keeping your ideas, reminders, and to-do lists organized.
